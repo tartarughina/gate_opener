@@ -1,0 +1,166 @@
+[
+  {
+    "settings": {
+      "opsNotify": 0,
+      "opsHistory": 1,
+      "alarmNotify": 1,
+      "wxAlarmNotify": 0,
+      "wxOpsNotify": 0,
+      "wxDoorbellNotify": 0,
+      "appDoorbellNotify": 1
+    },
+    "family": {
+      "id": "5f08ab1e11aac600079e4d11",
+      "index": 0
+    },
+    "group": "",
+    "online": true,
+    "shareUsersInfo": [],
+    "groups": [],
+    "devGroups": [],
+    "_id": "5deb8847de5dbb00089c3ead",
+    "name": "cancello",
+    "type": "10",
+    "deviceid": "1000acc169",
+    "apikey": "a442bf8d-be51-4a38-9028-1eea6856b471",
+    "extra": {
+      "extra": {
+        "uiid": 1,
+        "description": "20190927001",
+        "brandId": "59a68c7e86b3ab5e3ae3b35e",
+        "apmac": "d0:27:01:59:80:23",
+        "mac": "d0:27:01:59:80:22",
+        "ui": "单通道插座",
+        "modelInfo": "5d3526c662bf677a67452987",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳市第一航电子商务有限公司",
+        "chipid": "003060B6",
+        "staMac": "24:62:AB:30:60:B6"
+      },
+      "_id": "5d8d816b4c50f6f5ccec7d6b"
+    },
+    "createdAt": "2019-12-07T11:08:55.503Z",
+    "__v": 0,
+    "onlineTime": "2021-06-03T04:21:47.175Z",
+    "params": {
+      "bindInfos": {
+        "alexa": [
+          "a442bf8d-be51-4a38-9028-1eea6856b471_26ca1996a20e8bd63617ab272d4eeede1d2d8e32"
+        ]
+      },
+      "pulseWidth": 500,
+      "pulse": "off",
+      "init": 1,
+      "startup": "off",
+      "staMac": "24:62:AB:30:60:B6",
+      "rssi": -71,
+      "fwVersion": "3.5.0",
+      "switch": "off",
+      "sledOnline": "on",
+      "version": 8,
+      "only_device": {
+        "ota": "success"
+      },
+      "ssid": "StrinaWiFi",
+      "bssid": "0e:36:c9:22:84:ce"
+    },
+    "ip": "93.49.249.120",
+    "location": "",
+    "tags": {
+      "m_b471_ricc": "on"
+    },
+    "offlineTime": "2021-06-03T04:21:24.217Z",
+    "deviceStatus": "",
+    "sharedTo": [],
+    "devicekey": "a434b756-559b-44b3-8268-3da6469ab2d6",
+    "deviceUrl": "",
+    "brandName": "SANTTONG",
+    "showBrand": true,
+    "brandLogoUrl": "",
+    "productModel": "SANTTON_3",
+    "devConfig": {},
+    "uiid": 1
+  },
+  {
+    "settings": {
+      "opsNotify": 0,
+      "opsHistory": 1,
+      "alarmNotify": 1,
+      "wxAlarmNotify": 0,
+      "wxOpsNotify": 0,
+      "wxDoorbellNotify": 0,
+      "appDoorbellNotify": 1
+    },
+    "family": {
+      "id": "5f08ab1e11aac600079e4d11",
+      "index": 1
+    },
+    "group": "",
+    "online": true,
+    "shareUsersInfo": [],
+    "groups": [],
+    "devGroups": [],
+    "_id": "5deb9626eaa62a00087d2565",
+    "name": "garage",
+    "type": "10",
+    "deviceid": "1000acc135",
+    "apikey": "a442bf8d-be51-4a38-9028-1eea6856b471",
+    "extra": {
+      "extra": {
+        "uiid": 1,
+        "description": "20190927001",
+        "brandId": "59a68c7e86b3ab5e3ae3b35e",
+        "apmac": "d0:27:01:59:7f:bb",
+        "mac": "d0:27:01:59:7f:ba",
+        "ui": "单通道插座",
+        "modelInfo": "5d3526c662bf677a67452987",
+        "model": "PSF-B01-GL",
+        "manufacturer": "深圳市第一航电子商务有限公司",
+        "chipid": "00308AB0",
+        "staMac": "24:62:AB:30:8A:B0"
+      },
+      "_id": "5d8d816b4c50f6f5ccec7d37"
+    },
+    "createdAt": "2019-12-07T12:08:06.119Z",
+    "__v": 0,
+    "onlineTime": "2021-06-03T04:24:32.646Z",
+    "params": {
+      "bindInfos": {
+        "alexa": [
+          "a442bf8d-be51-4a38-9028-1eea6856b471_26ca1996a20e8bd63617ab272d4eeede1d2d8e32"
+        ]
+      },
+      "pulseWidth": 500,
+      "pulse": "off",
+      "init": 1,
+      "startup": "off",
+      "staMac": "24:62:AB:30:8A:B0",
+      "rssi": -71,
+      "fwVersion": "3.5.0",
+      "switch": "off",
+      "sledOnline": "on",
+      "version": 8,
+      "only_device": {
+        "ota": "success"
+      },
+      "ssid": "StrinaWiFi",
+      "bssid": "0e:36:c9:22:84:ce"
+    },
+    "ip": "93.49.249.120",
+    "location": "",
+    "offlineTime": "2021-06-03T04:24:19.794Z",
+    "deviceStatus": "",
+    "tags": {
+      "m_b471_ricc": "on"
+    },
+    "sharedTo": [],
+    "devicekey": "32ce8cc8-72be-4abd-9693-835222e22094",
+    "deviceUrl": "",
+    "brandName": "SANTTONG",
+    "showBrand": true,
+    "brandLogoUrl": "",
+    "productModel": "SANTTON_3",
+    "devConfig": {},
+    "uiid": 1
+  }
+]
