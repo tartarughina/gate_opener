@@ -138,6 +138,7 @@ function App() {
   }
 
   const add_user = () => {
+    if(user_name && user_password && user_start && user_end && user_uses){
     fetch(`http://${ip}:8080/create_user`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -158,6 +159,10 @@ function App() {
         else
           alert(data.message);
       });
+    }
+    else{
+      alert('Something missing, complete all the fields before creating a new user');
+    }
   }
 
   const clear_user = () => {
